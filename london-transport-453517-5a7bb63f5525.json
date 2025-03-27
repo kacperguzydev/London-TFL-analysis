@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "london-transport-453517",
+  "private_key_id": "5a7bb63f552527713ed2798f60d79ce6cff4cf87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXO/98//p+ScPT\n1VamrVvA6JyvQkvHMfS0GQOMY83OkBHgQYe0YYjGl2V/5IRdha0O2WfaAwKQ2Vxt\nlqwolvuCTVaskBwqTyiAWz+PQCgnSu0DFnLTfcsZHeCeCzxpTUuq8LlLQ1j0G+X0\ntWaj0aKiFPTh9Dyzt2JXc+lDfuYQyQsls8YfDaaqqDdvcKrJuXEj6dCvtVuH9FlI\nzVaNI7Wc9beLbSUvm1+YJDTBuMK9gTAnwUWyTE9P2YYP+ZXVrpVcR85FbkWz+pbN\ngB7jUDE7DzsBW9aug91NoW1WuNkhbEaxr0rydHOh6XSQNGTRA0jZIeSjroX1+ftO\nzF5tt0NrAgMBAAECggEADiF1hEz4r08eJI9k+srs7U/uv/NuWCzjQ+aobbgvlTLh\n8LW+w8xvNrsTqUkFUyW331DSAs1QMo+UssqmyF4fHvQx+oq2jv95ddDQ1gY1GkLG\ndYjl7rvsu6qOf8Xl/aLSxKScc5tV1u06ZcyDTCA81W8m2Gv1NgeXATvb2kojngK+\nKHuM//v7V44BRMX83XB2XZSmQlgRQJRVBGMombD3DHdgKM9xslKH5Q7agd2NNOft\npGSHdk2mEF1Scr0EXBmsLAYObnX/GE1grKQpwV6pEgt7zNm7+pwOUXgPI/ASeQSm\ntNTtkj9zvk92KlzyaBivBdSo72PlopNs+H9QhtH30QKBgQDInOKaieFgF6h+yrYf\nnW8UEDaHsC7yeLqcrv/QHWrc4YhQ/WhWM47cY29+EjVqNHBjtCLPk5u1ptAmQ3qJ\nxhtNpxqJ48OY2Hp0XnpL4ecAfUyOgG3UU2jZ0ONj/3M8Y5M7JJ7MlXg6q8D2RqEl\ngEoJyQIgQZODoZ6ZNAwgva3ncQKBgQDA/ReX7AFOY/PVtUCW3GKeiykqD9Yxg4wy\nARPdUN3LEHwx2a8ASKYu0QI9iwjkgRMzUrs1jqm6ilBZFh5NtmbEHVklAVkr+jqs\nr5QIPoj3L74fmlivSyevFGDd7OMkQKIaOcfsE30x4qWkG8A9iWizqOWlPEyBrBWr\nZNcmVVFCmwKBgQC9G/8U9NLqtYKVe1uxc8QpIpt0z2WCFsK7PtBRC9oXu9a3mhnH\n4LRUFrwcGOgXZLVpl36VNK080LI4z7VsuL42NkbzIyzYIYFVv1YDwED1GiiX0IM3\n+yTE53/jXQPxMmCxCPVVH7WFgTDWN4BjDIs+rCh/5bE8DZenDgQ8vPF5UQKBgFT4\nWkX6lEymd3pVln2VxRoXHWW2mVEtoTF3Bf8AltbMiFIOjR2r3vdn8PuV1rF9Hy4O\ns/yNtq86LMw8j9UZhT+9yD0hzdguEV1s5NmIZxemfqg9deSgS3WrnEa6APw6NOUl\nIaAQqKOpLdMGoOq3MFFCAPJyjSDe2p+fA5eOIvwXAoGBAIB3bLCAURD3+v2xvtU+\nNE2r8ZlXctdq6gRqgTmMVv4vnu6f4lhjugafMPQlUtr2a4+t6WrNRPPSmsmy56GK\nTteCSTDaQ91dSp/PS86jmKyAGpH6no+By8u4c6qRZiqNZ9ug6BvlXaEtjH791xz8\n2wakGeRi1XNY5YCemYBTJa7W\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-99@london-transport-453517.iam.gserviceaccount.com",
+  "client_id": "109910380818163717509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-99%40london-transport-453517.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
